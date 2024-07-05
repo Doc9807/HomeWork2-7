@@ -38,6 +38,7 @@ public class Main {
         System.out.print(uniqueWords + "; ");
         System.out.println();
     }
+
     public static void task4() {
         Map<String, Integer> strings1 = new HashMap<>();
         for (String string : strings) {
